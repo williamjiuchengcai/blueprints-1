@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://github.com/GoogleCloudPlatform/blueprints/compare/gke-autopilot-blueprint-v0.1.0...gke-autopilot-blueprint-v0.1.1) (2022-03-11)
+
+
+### Bug Fixes
+
+* reduce setters ([#159](https://github.com/GoogleCloudPlatform/blueprints/issues/159)) ([91bc71d](https://github.com/GoogleCloudPlatform/blueprints/commit/91bc71dcc89801976f9049021a6e17628c0e00e9))
+
 ## [0.1.0](https://github.com/GoogleCloudPlatform/blueprints/compare/gke-autopilot-blueprint-v0.0.1...gke-autopilot-blueprint-v0.1.0) (2022-02-02)
 
 

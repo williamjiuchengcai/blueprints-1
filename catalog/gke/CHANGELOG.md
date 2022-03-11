@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.4.1](https://github.com/GoogleCloudPlatform/blueprints/compare/gke-blueprint-v0.4.0...gke-blueprint-v0.4.1) (2022-03-11)
+
+
+### Bug Fixes
+
+* reduce setters ([#158](https://github.com/GoogleCloudPlatform/blueprints/issues/158)) ([b020765](https://github.com/GoogleCloudPlatform/blueprints/commit/b020765de49640700347d74295616ea9fc4dd812))
+
 ## [0.4.0](https://www.github.com/GoogleCloudPlatform/blueprints/compare/gke-blueprint-v0.3.0...gke-blueprint-v0.4.0) (2021-12-22)
 
 

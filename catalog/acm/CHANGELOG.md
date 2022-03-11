@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://github.com/GoogleCloudPlatform/blueprints/compare/acm-blueprint-v0.1.1...acm-blueprint-v0.1.2) (2022-03-11)
+
+
+### Bug Fixes
+
+* reduce setters for ACM blueprint ([#157](https://github.com/GoogleCloudPlatform/blueprints/issues/157)) ([0529ae6](https://github.com/GoogleCloudPlatform/blueprints/commit/0529ae669cf9af5f09bd7f71bde6445710e75377))
+
 ### [0.1.1](https://github.com/GoogleCloudPlatform/blueprints/compare/acm-blueprint-v0.1.0...acm-blueprint-v0.1.1) (2022-02-02)
 
 

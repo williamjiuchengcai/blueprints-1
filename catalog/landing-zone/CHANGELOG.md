@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.5.1](https://github.com/GoogleCloudPlatform/blueprints/compare/landing-zone-blueprint-v0.5.0...landing-zone-blueprint-v0.5.1) (2022-03-11)
+
+
+### Bug Fixes
+
+* Add 'ignore-clusterless' annotations to resources that are irrelevant to clusterless actuation mode (when a GKE cluster is not involved) ([#164](https://github.com/GoogleCloudPlatform/blueprints/issues/164)) ([84fa763](https://github.com/GoogleCloudPlatform/blueprints/commit/84fa76359253eca234ab5664a97c62dc88b1a860))
+
 ## [0.5.0](https://www.github.com/GoogleCloudPlatform/blueprints/compare/landing-zone-blueprint-v0.4.0...landing-zone-blueprint-v0.5.0) (2021-12-22)
 
 
